@@ -1,0 +1,1 @@
+var zoomSensitivity = 1;
